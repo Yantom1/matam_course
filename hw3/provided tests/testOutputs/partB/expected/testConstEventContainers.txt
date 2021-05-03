@@ -1,0 +1,12 @@
+a recurring open event 21/1/2000
+4
+a recurring open event 23/1/2000
+4
+a recurring open event 25/1/2000
+4
+a recurring open event 27/1/2000
+4
+a recurring open event 29/1/2000
+4
+a recurring open event 1/2/2000
+4

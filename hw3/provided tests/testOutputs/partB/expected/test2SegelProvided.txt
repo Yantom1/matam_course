@@ -1,0 +1,12 @@
+An Open Event 21/10/2020
+An Open Event 21/10/2020
+3
+20000
+A Closed Event 21/10/2020
+A Closed Event 21/10/2020
+3
+20000
+A Custom Event 21/10/2020
+A Custom Event 21/10/2020
+3
+20000

@@ -1,0 +1,22 @@
+InvalidStudent
+NotRegistered
+NotRegistered
+NotRegistered
+NotRegistered
+NotRegistered
+NotRegistered
+NotRegistered
+NotRegistered
+NotRegistered
+NotRegistered
+NotRegistered
+NotRegistered
+NotRegistered
+NotRegistered
+NotRegistered
+NotRegistered
+NotRegistered
+NotRegistered
+NotRegistered
+NotRegistered
+event1 1/1/2000

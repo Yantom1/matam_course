@@ -1,0 +1,16 @@
+RegistrationBlocked
+RegistrationBlocked
+RegistrationBlocked
+a closed event 1/1/2000
+4
+5
+6
+a custom event 1/1/2000
+5
+6
+an open event 1/1/2000
+3
+4
+5
+6
+

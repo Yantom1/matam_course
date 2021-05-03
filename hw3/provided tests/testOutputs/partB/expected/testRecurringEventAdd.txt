@@ -1,0 +1,22 @@
+NotSupported
+RegistrationBlocked
+RegistrationBlocked
+RegistrationBlocked
+RegistrationBlocked
+RegistrationBlocked
+RegistrationBlocked
+RegistrationBlocked
+RegistrationBlocked
+RegistrationBlocked
+ev2 1/1/2000
+5
+6
+7
+8
+ev2 3/1/2000
+5
+6
+7
+ev2 5/1/2000
+5
+6
